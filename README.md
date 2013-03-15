@@ -35,5 +35,6 @@ maxVisible value was not consistent with the current page. This fork will always
 Example:
 ```
 < [1] 2 3 4 5 6 7 8 9 >
+< 3 4 5 6 [7] 8 9 10 11 >
 < 7 8 9 10 11 12 13 14 [15] >
 ```
